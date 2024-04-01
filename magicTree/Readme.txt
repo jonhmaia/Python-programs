@@ -37,4 +37,4 @@ Após terminar de instalar tudo:
 Abra seu terminal na pasta do projeto e digite:
     python3 magicTree.py 
 
-Agora é só brincar com a árvore mágica
+Agora é só brincar com a árvore mágica.
