@@ -1,3 +1,4 @@
+LINK PARA O NOTEBOOK https://colab.research.google.com/drive/1wqBmbSlo0QTMpT0peu11iggQ_vpHB8ek?usp=drive_link
 O algoritmo K-Nearest Neighbors (KNN) é uma técnica amplamente utilizada no campo do Machine Learning. Ele pertence à 
 categoria de algoritmos de aprendizado supervisionado e é usado para classificação e regressão. Neste artigo, iremos 
 explorar em detalhes o que é o algoritmo KNN, seu funcionamento básico, aplicações práticas e como implementá-lo em 
