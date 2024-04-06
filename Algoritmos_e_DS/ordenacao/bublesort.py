@@ -1,4 +1,5 @@
 def bubble_sort(arr):
+    # Tamanho do vetor
     n = len(arr)
     # Percorre todos os elementos do vetor
     for i in range(n-1):
