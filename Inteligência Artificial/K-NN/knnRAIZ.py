@@ -42,7 +42,6 @@ def classificar_amostra(targetss, novo_exemplo, K):
     # Calcula a distância euclidiana do novo exemplo para cada exemplo do conjunto de treinamento
     dist_targetss = [(distancia_euclidiana(target, novo_exemplo), i) for i, target in enumerate(targetss)]
     dist_targetss.sort()
-
     # Contabiliza as classes dos K vizinhos mais próximos
     for dist, idx in dist_targetss[:K]:
         classe = targetss[idx].get_classe()
